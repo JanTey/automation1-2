@@ -1,5 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/s2ovgdi73tyykj3b/branch/master?svg=true)](https://ci.appveyor.com/project/JanTey/automation1-2-wd6ct/branch/master)
-
+[![Build status](https://ci.appveyor.com/api/projects/status/sxpad38bh66degte/branch/master?svg=true)](https://ci.appveyor.com/project/JanTey/automation1-2-4qdmj/branch/master)
 # Домашнее задание к занятию «1.2. Тестирование API, CI»
 
 В качестве результата пришлите ссылку на ваш GitHub-проект в личном кабинете студента на сайте [netology.ru](https://netology.ru).
